@@ -1,5 +1,5 @@
-debug_phpspec
-=============
+How to debug PHPSpec via PHPStorm
+=================================
 
 This is an example which shows how to debug phpspec tests using PhpStorm.
 
