@@ -2,7 +2,7 @@
   "name": "MantasVaitkunas/debug_phpspec",
   "description": "This is an example project which shows how to debug phpspec tests using PhpStorm.",
   "minimum-stability": "alpha",
-  "license": "false",
+  "license": "MIT",
   "authors": [
     {
       "name": "Mantas Vaitkūnas",
