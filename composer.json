@@ -1,0 +1,19 @@
+{
+  "name": "MantasVaitkunas/debug_phpspec",
+  "description": "This is an example project which shows how to debug phpspec tests using PhpStorm.",
+  "minimum-stability": "alpha",
+  "license": "false",
+  "authors": [
+    {
+      "name": "Mantas Vaitkūnas",
+      "email": "manvait@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpspec/phpspec": "~2.0"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {"psr-0": {"": "src"}}
+}
