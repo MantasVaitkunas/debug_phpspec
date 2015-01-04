@@ -1,7 +1,7 @@
 debug_phpspec
 =============
 
-This is an example projechttps://github.com/MantasVaitkunas/debug_phpspect which shows how to debug phpspec tests using PhpStorm.
+This is an example which shows how to debug phpspec tests using PhpStorm.
 
 To try debug using PhpSpec and PhpStorm run these commands:
 
